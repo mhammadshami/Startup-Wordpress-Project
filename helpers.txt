@@ -1,0 +1,2 @@
+1)mysql2date("d-m-Y, $date);
+2) WP_Query(); // amazing function in wordpress
